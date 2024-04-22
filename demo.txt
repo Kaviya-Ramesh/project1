@@ -1,4 +1,2 @@
-Hello world
-
-cloning the project
+Hello world ,cloning the project
 
